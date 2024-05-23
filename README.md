@@ -1,2 +1,3 @@
 # javascript_stuffs
-Set of some javascript basic projects
+Set of some of my javascript basic projects
+
